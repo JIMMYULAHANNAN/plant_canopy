@@ -95,4 +95,4 @@ Defines hyperparameters like batch size, image size, number of channels, and epo
 ### **Project Summary**
 This project demonstrates how to preprocess and augment image datasets, build a CNN for multi-class classification, and evaluate its performance. It emphasizes modular and efficient handling of data pipelines while ensuring robust model training and evaluation.
 
-code:
+code:https://github.com/JIMMYULAHANNAN/plant_canopy/blob/main/plant-disease-canopy.ipynb
